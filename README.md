@@ -115,7 +115,7 @@ Chrome Extension (Manifest V3) that analyses YouTube video metadata and generate
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subrat-2003&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-2003&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subrat-2003&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Subrat-2003&theme=github-dark&hide_border=true)
 
