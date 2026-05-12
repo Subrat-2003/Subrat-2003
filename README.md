@@ -113,7 +113,7 @@ Chrome Extension (Manifest V3) that analyses YouTube video metadata and generate
 
 <div align="center">
 
-![Subrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat-2003&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subrat-2003&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-2003&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
