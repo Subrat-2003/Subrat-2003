@@ -2,7 +2,7 @@
 
 # Hi, I'm Subrat 👋
 
-**Data Analyst · AI/ML Engineer · Data Scientist**
+**Data Analyst · AI/ML Engineer · Data Scientist** · **Business analyst**
 
 *I build data systems that are honest about their limits and useful in production.*
 
